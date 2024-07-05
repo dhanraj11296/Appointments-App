@@ -1,0 +1,28 @@
+.appointmentItem {
+  list-style-type: none;
+  border: 1px solid #b5b7c4;
+  padding: 16px;
+}
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.title {
+  color: #171f46;
+  font-size: 15px;
+  font-weight: bold;
+}
+.star {
+  width: 20px;
+  height: 20px;
+  background: transparent;
+  align-self: center;
+  border: none;
+  outline: none;
+}
+.date {
+  color: black;
+  font-size: 15px;
+}
